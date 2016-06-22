@@ -1,0 +1,4 @@
+path %path%;"C:\Program Files\Java\jdk1.8.0_25\bin"
+
+copy con addpath.bat
+
